@@ -29,6 +29,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <Link href="/">Home</Link>
         <Link href="/performance">Performance</Link>
         <Link href="/reliability">Reliability</Link>
         <Link href="/scale">Scale</Link>
