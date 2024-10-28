@@ -7,7 +7,7 @@ export default function ReliabilityPage() {
       <Hero
         imgData={reliabilityImg}
         imgAlt="Welding"
-        title="We server high performance applications"
+        title="Super high reliability hosting"
       />
     </div>
   );
