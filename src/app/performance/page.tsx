@@ -6,8 +6,8 @@ export default function PerformancePage() {
     <div>
       <Hero
         imgData={performanceImg}
-        imgAlt="Hero image"
-        title="Professional Cloud Hosting"
+        imgAlt="Welding"
+        title="We server high performance applications"
       />
     </div>
   );
