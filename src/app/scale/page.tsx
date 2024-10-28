@@ -6,8 +6,8 @@ export default function ScalePage() {
     <div>
       <Hero
         imgData={scaleImg}
-        imgAlt="Welding"
-        title="Super high reliability hosting"
+        imgAlt="Steel factory"
+        title="Scale your application to infinity"
       />
     </div>
   );
